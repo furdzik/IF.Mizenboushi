@@ -1,2 +1,3 @@
 # IF.Misenbouoshi
-My linters
+
+未然防止

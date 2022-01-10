@@ -1,3 +1,14 @@
 # IF.Mizenboushi
 
-未然防止
+Linters for code based on [IF.Kamisama](https://github.com/furdzik/IF.Kamisama) by Izabela Furdzik
+
+### Name origin
+
+**未然防止** /みぜんぼうし, mizenboushi/  
+Which means 'prevention'.
+
+I chose this name because it reflects the task of linters.
+
+---
+
+README @TODO

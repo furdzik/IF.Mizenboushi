@@ -30,6 +30,7 @@
     "@if/commitlint": "file:./packages/commitlint-config",
     "@if/eslint": "file:./packages/eslint-config",
     "conventional-changelog-eslint": "3.0.9",
+    "editorconfig": "0.15.3",
     "eslint": "8.6.0",
     "husky": "7.0.4",
     "lerna": "4.0.0"

@@ -1,0 +1,36 @@
+{
+  "name": "if.mizenboushi",
+  "version": "0.0.1",
+  "description": "Linters by Izabela Furdzik",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "eslint --ext .js",
+    "tests": "lerna run test",
+    "release": "lerna publish --yes --conventional-graduate --create-release github --no-commit-hooks --force-publish",
+    "development-release": "lerna publish --yes --conventional-prerelease --no-changelog --no-commit-hooks --force-publish",
+    "bootstrap": "npx lerna exec npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furdzik/IF.Mizenboushi"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furdzik/IF.Mizenboushi/issues"
+  },
+  "homepage": "https://github.com/furdzik/IF.Mizenboushi#readme",
+  "devDependencies": {
+    "@commitlint/cli": "16.0.2",
+    "@commitlint/config-conventional": "16.0.0",
+    "@if/commitlint": "file:./packages/commitlint-config",
+    "conventional-changelog-eslint": "3.0.9",
+    "eslint": "8.6.0",
+    "husky": "7.0.4",
+    "lerna": "4.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "packages": ["packages/*"],
+  "version": "0.0.1",
+  "command": {
+    "init": {
+      "exact": true
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "npmClient": "npm",
+      "verifyAccess": false
+    }
+  }
+}

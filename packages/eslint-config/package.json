@@ -1,0 +1,28 @@
+{
+  "name": "@if/eslint",
+  "version": "0.0.1",
+  "description": "ESLint rules by Izabela Furdzik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izabela Furdzik",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/eslint-parser": "7.16.5",
+    "eslint": "8.6.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-module-resolver": "1.4.0",
+    "eslint-plugin-react-hooks": "4.3.0"
+  },
+  "peerDependencies": {
+    "babel-plugin-module-resolver": "4.1.0",
+    "eslint-import-resolver-babel-module": "5.3.1"
+  },
+  "standard-version": {
+    "skip": {
+      "changelog": true
+    }
+  }
+}

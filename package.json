@@ -9,7 +9,7 @@
   "scripts": {
     "lint": "eslint --ext .js",
     "tests": "lerna run test",
-    "release": "lerna publish --yes --conventional-graduate --create-release github --no-commit-hooks --force-publish",
+    "release": "lerna publish --yes --no-commit-hooks",
     "development-release": "lerna publish --yes --conventional-prerelease --no-changelog --no-commit-hooks --force-publish",
     "bootstrap": "npx lerna exec npm install"
   },

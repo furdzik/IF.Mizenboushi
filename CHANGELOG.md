@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/furdzik/IF.Mizenboushi/compare/v0.2.0...v0.2.1) (2022-01-10)
+
+
+### Features
+
+* **linters:** add editor config ([b08d96f](https://github.com/furdzik/IF.Mizenboushi/commit/b08d96fa4078caf823ca4a3986756028ecc31909))
+* **linters:** change release script ([60165ee](https://github.com/furdzik/IF.Mizenboushi/commit/60165ee04e36f326af8a266adb739dff78d728d4))
+
+
+
+
+
 # [0.2.0](https://github.com/furdzik/IF.Mizenboushi/compare/v0.1.0...v0.2.0) (2022-01-10)
 
 

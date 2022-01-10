@@ -1,24 +1,24 @@
 {
-  "name": "@if/eslint",
+  "name": "@if/stylelint",
   "version": "0.0.1",
-  "description": "ESLint rules by Izabela Furdzik",
+  "description": "Style lint rules by Izabela Furdzik",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Izabela Furdzik",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "@babel/eslint-parser": "7.16.5",
-    "eslint": "8.6.0",
-    "eslint-config-airbnb": "19.0.4",
-    "eslint-plugin-import": "2.25.4",
-    "eslint-plugin-module-resolver": "1.4.0",
-    "eslint-plugin-react-hooks": "4.3.0"
-  },
-  "peerDependencies": {
-    "babel-plugin-module-resolver": "4.1.0",
-    "eslint-import-resolver-babel-module": "5.3.1"
+    "stylelint-config-prettier": "9.0.3",
+    "stylelint-config-recommended": "6.0.0",
+    "stylelint-config-recommended-scss": "5.0.2",
+    "stylelint-config-standard": "24.0.0",
+    "stylelint-config-styled-components": "0.1.1",
+    "stylelint-declaration-block-no-ignored-properties": "2.5.0",
+    "stylelint-declaration-use-variable": "1.7.3",
+    "stylelint-order": "5.0.0",
+    "stylelint-processor-styled-components": "1.10.0",
+    "stylelint-scss": "4.1.0"
   },
   "standard-version": {
     "skip": {

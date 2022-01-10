@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "lint": "eslint --ext .js",
+    "lint:fix": "npm run lint --fix",
     "tests": "lerna run test",
     "publish": "lerna publish --registry=https://npm.pkg.github.com/",
     "release": "lerna publish patch --yes --no-commit-hooks",

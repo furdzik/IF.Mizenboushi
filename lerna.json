@@ -10,7 +10,8 @@
     "publish": {
       "conventionalCommits": true,
       "npmClient": "npm",
-      "verifyAccess": false
+      "verifyAccess": false,
+      "registry": "https://npm.pkg.github.com/furdzik"
     }
   }
 }

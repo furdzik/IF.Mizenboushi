@@ -1,6 +1,6 @@
 {
   "name": "@furdzik/commitlint",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Commit lint rules by Izabela Furdzik",
   "main": "index.js",
   "scripts": {

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.2](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/eslint@0.3.1...@furdzik/eslint@0.3.2) (2022-01-10)
+
+
+### Features
+
+* **commit-linter:** last updates ([e242845](https://github.com/furdzik/IF.Mizenboushi/commit/e2428451821af03be0143e7c830ee36c82e7f9f4))
+
+
+
+
+
 ## 0.3.1 (2022-01-10)
 
 

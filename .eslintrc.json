@@ -1,3 +1,3 @@
 {
-  "extends": "file:./packages/commitlint-config"
+  "extends": "@if/eslint"
 }

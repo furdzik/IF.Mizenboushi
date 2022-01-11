@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.10](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint-config@0.3.9...@furdzik/stylelint-config@0.3.10) (2022-01-11)
+
+
+### Features
+
+* **app:** update package-locks ([b420f95](https://github.com/furdzik/IF.Mizenboushi/commit/b420f9585575adea353584a662c4d7faf044ce21))
+
+
+
+
+
 ## 0.3.9 (2022-01-11)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.5](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/commitlint@0.3.4...@furdzik/commitlint@0.3.5) (2022-01-11)
+
+
+### Features
+
+* **app:** update versions ([543e8d0](https://github.com/furdzik/IF.Mizenboushi/commit/543e8d006239c9cf398b419bfc173b371f883412))
+
+
+
+
+
 ## [0.3.4](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/commitlint@0.3.3...@furdzik/commitlint@0.3.4) (2022-01-11)
 
 

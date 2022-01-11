@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.7](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint@0.3.6...@furdzik/stylelint@0.3.7) (2022-01-11)
+
+
+### Features
+
+* **app:** update versions ([543e8d0](https://github.com/furdzik/IF.Mizenboushi/commit/543e8d006239c9cf398b419bfc173b371f883412))
+
+
+
+
+
 ## [0.3.6](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint@0.3.5...@furdzik/stylelint@0.3.6) (2022-01-11)
 
 

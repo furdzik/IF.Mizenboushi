@@ -1,22 +1,21 @@
 ## Getting started
 
 ```
-npm install --save-dev eslint @grupa-pracuj/eslint-config-cracow
+npm install --save-dev commitlint @furdzik/commitlint
 ```
 
 ---
 
-`.eslintrc`
+`commitlint.config.js`
 
 ```javascript
-{
-  "extends": "@grupa-pracuj/eslint-config-cracow"
-}
+  {
+    "extends": "@furdzik/commitlint"
+  }
 ```
 
 ---
 
 ## New changes and updating version
 
-`npm run version` bumps the version in `package.json` and creates a new git tag,
-later just type `git push[...] & npm publish`.
+@TODO

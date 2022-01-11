@@ -29,8 +29,8 @@
   "devDependencies": {
     "@commitlint/cli": "16.0.2",
     "@commitlint/config-conventional": "16.0.0",
-    "@if/commitlint": "file:./packages/commitlint-config",
-    "@if/eslint": "file:./packages/eslint-config",
+    "@furdzik/commitlint": "file:./packages/commitlint",
+    "@furdzik/eslint": "file:./packages/eslint",
     "conventional-changelog-eslint": "3.0.9",
     "editorconfig": "0.15.3",
     "eslint": "8.6.0",

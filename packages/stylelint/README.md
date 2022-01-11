@@ -1,22 +1,28 @@
 ## Getting started
 
 ```
-npm install --save-dev eslint @grupa-pracuj/eslint-config-cracow
+npm install --save-dev eslint @furdzik/stylelint
+
+@TODO
 ```
 
 ---
 
-`.eslintrc`
+`.stylelintrc`
 
 ```javascript
-{
-  "extends": "@grupa-pracuj/eslint-config-cracow"
-}
+  {
+    "processors": [
+      "stylelint-processor-styled-components"
+    ],
+      "extends": [
+      "@furdzik/stylelint"
+    ]
+  }
 ```
 
 ---
 
 ## New changes and updating version
 
-`npm run version` bumps the version in `package.json` and creates a new git tag,
-later just type `git push[...] & npm publish`.
+@TODO

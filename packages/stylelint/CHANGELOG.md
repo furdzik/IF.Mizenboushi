@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.4](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint@0.3.3...@furdzik/stylelint@0.3.4) (2022-01-11)
+
+
+### Features
+
+* **style-linter:** change style lint package ([7f1579e](https://github.com/furdzik/IF.Mizenboushi/commit/7f1579e07d4737941b75f7a5705342d9342ab282))
+
+
+
+
+
 ## [0.3.3](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint@0.3.2...@furdzik/stylelint@0.3.3) (2022-01-11)
 
 

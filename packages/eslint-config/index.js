@@ -11,8 +11,9 @@ module.exports = {
     'eslint-plugin-react-hooks'
   ],
   env: {
-    node: true,
-    browser: true,
+    'browser': true,
+    'jest': true,
+    'es6': true
   },
   rules: {
     'import/no-extraneous-dependencies': 0,

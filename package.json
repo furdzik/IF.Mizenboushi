@@ -7,7 +7,7 @@
     "packages/*"
   ],
   "scripts": {
-    "lint": "eslint --ext .js",
+    "lint": "lerna run lint",
     "lint:fix": "npm run lint --fix",
     "tests": "lerna run test",
     "release": "lerna publish patch --yes --no-commit-hooks",

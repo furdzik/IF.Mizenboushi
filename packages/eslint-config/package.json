@@ -1,7 +1,7 @@
 {
-  "name": "@furdzik/commitlint",
+  "name": "@furdzik/eslint-config",
   "version": "0.3.6",
-  "description": "Commit lint rules by Izabela Furdzik",
+  "description": "ESLint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -14,9 +14,13 @@
   "author": "Izabela Furdzik",
   "license": "MIT",
   "dependencies": {
-    "@commitlint/config-conventional": "8.2.0",
-    "@furdzik/eslint": "0.3.6",
-    "eslint": "8.6.0"
+    "@babel/eslint-parser": "7.16.5",
+    "@furdzik/eslint-config": "0.3.6",
+    "eslint": "8.6.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-module-resolver": "1.4.0",
+    "eslint-plugin-react-hooks": "4.3.0"
   },
   "peerDependencies": {
     "babel-plugin-module-resolver": "4.1.0",
@@ -28,7 +32,7 @@
     }
   },
   "publishConfig": {
-    "@furdzik:registry": "https://npm.pkg.github.com"
+    "@furdzik:registry": "https://npm.pkg.github.com/furdzik"
   },
   "gitHead": "2289541e88a56db80c2a83eb670d84d28d66eeee"
 }

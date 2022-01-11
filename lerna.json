@@ -3,6 +3,7 @@
     "packages/*"
   ],
   "version": "independent",
+  "exact": true,
   "command": {
     "init": {
       "exact": true

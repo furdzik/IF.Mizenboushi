@@ -8,7 +8,6 @@
   ],
   "scripts": {
     "lint": "lerna run lint",
-    "lint:fix": "npm run lint --fix",
     "tests": "lerna run test",
     "release": "lerna publish patch --yes --no-commit-hooks",
     "development-release": "lerna publish --yes --conventional-prerelease --no-changelog --no-commit-hooks --force-publish",

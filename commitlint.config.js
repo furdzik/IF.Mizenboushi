@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["@furdzik/commitlint"]
+  extends: ["@furdzik/commitlint-config"]
 };

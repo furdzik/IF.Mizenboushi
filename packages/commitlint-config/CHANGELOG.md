@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.10](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/commitlint-config@0.3.9...@furdzik/commitlint-config@0.3.10) (2022-01-11)
+
+
+### Features
+
+* **app:** update package-locks ([9fca90d](https://github.com/furdzik/IF.Mizenboushi/commit/9fca90d104507d51a04e7d740746bd0466f63728))
+
+
+
+
+
 ## [0.3.9](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/commitlint-config@0.3.8...@furdzik/commitlint-config@0.3.9) (2022-01-11)
 
 

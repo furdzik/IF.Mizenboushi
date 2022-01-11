@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.11](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint-config@0.3.10...@furdzik/stylelint-config@0.3.11) (2022-01-11)
+
+
+### Features
+
+* **app:** update eslint ([6571d10](https://github.com/furdzik/IF.Mizenboushi/commit/6571d10de5f84c26f8b56b8e2d0d84313a294bfc))
+
+
+
+
+
 ## [0.3.10](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint-config@0.3.9...@furdzik/stylelint-config@0.3.10) (2022-01-11)
 
 

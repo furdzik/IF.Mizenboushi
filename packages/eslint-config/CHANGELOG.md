@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/eslint-config@0.0.4...@furdzik/eslint-config@0.0.5) (2022-01-12)
+
+
+### Bug Fixes
+
+* **eslint:** fix eslint function-call-argument-newline rule ([c4e3487](https://github.com/furdzik/IF.Mizenboushi/commit/c4e3487f49a64ab6da6d4019a4ba54c12abf27c2))
+
+
+
+
+
 ## [0.0.4](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/eslint-config@0.0.3...@furdzik/eslint-config@0.0.4) (2022-01-12)
 
 

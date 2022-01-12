@@ -1,6 +1,6 @@
 {
   "name": "@furdzik/stylelint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Style lint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   "author": "Izabela Furdzik",
   "license": "MIT",
   "dependencies": {
-    "@furdzik/eslint-config": "0.0.1",
+    "@furdzik/eslint-config": "0.0.2",
     "eslint": "8.6.0",
     "stylelint-config-prettier": "9.0.3",
     "stylelint-config-recommended": "6.0.0",

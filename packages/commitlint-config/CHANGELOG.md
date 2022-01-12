@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.2](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/commitlint-config@0.3.13...@furdzik/commitlint-config@0.0.2) (2022-01-12)
+
+
+### Features
+
+* **app:** change to npm public packages ([2be5d66](https://github.com/furdzik/IF.Mizenboushi/commit/2be5d66ce480f3db38fcfcb4a8eb666c50a941cb))
+
+
+
+
+
 ## [0.3.13](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/commitlint-config@0.3.12...@furdzik/commitlint-config@0.3.13) (2022-01-12)
 
 

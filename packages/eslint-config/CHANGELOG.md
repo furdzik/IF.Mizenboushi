@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.6](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/eslint-config@0.0.5...@furdzik/eslint-config@0.0.6) (2022-01-12)
+
+
+### Bug Fixes
+
+* **eslint:** change react no spreading rule ([52ec2ef](https://github.com/furdzik/IF.Mizenboushi/commit/52ec2ef8c7ac68c401985ca40dde0d023a39a4ac))
+
+
+
+
+
 ## [0.0.5](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/eslint-config@0.0.4...@furdzik/eslint-config@0.0.5) (2022-01-12)
 
 

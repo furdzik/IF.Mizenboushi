@@ -11,8 +11,7 @@
     "publish": {
       "conventionalCommits": true,
       "npmClient": "npm",
-      "verifyAccess": false,
-      "registry": "https://npm.pkg.github.com/furdzik"
+      "verifyAccess": false
     }
   }
 }

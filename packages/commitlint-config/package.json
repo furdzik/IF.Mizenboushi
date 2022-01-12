@@ -27,8 +27,5 @@
       "changelog": true
     }
   },
-  "publishConfig": {
-    "@furdzik:registry": "https://npm.pkg.github.com"
-  },
   "gitHead": "2289541e88a56db80c2a83eb670d84d28d66eeee"
 }

@@ -32,5 +32,8 @@
       "changelog": true
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "gitHead": "f8b709fecb2ee44c71eb79cc33f725650c83a42f"
 }

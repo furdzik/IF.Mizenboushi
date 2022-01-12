@@ -26,6 +26,7 @@ module.exports = {
     'react/function-component-definition': 0,
     'react/jsx-fragments': [1, 'element'],
     'react/jsx-one-expression-per-line': 0,
+    'react/jsx-props-no-spreading': 0,
     'react/static-property-placement': [1, 'static public field'],
     'import/no-extraneous-dependencies': 0,
     'import/no-useless-path-segments': 0,

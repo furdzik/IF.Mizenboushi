@@ -34,7 +34,7 @@ module.exports = {
     'arrow-parens': ['error', 'always'],
     'camelcase': 0,
     'comma-dangle': ['error', 'never'],
-    'function-call-argument-newline': 'consistent',
+    'function-call-argument-newline': ['error', 'consistent'],
     'function-paren-newline': 0,
     'no-confusing-arrow': 0,
     'no-else-return': 0,

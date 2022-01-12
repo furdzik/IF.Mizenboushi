@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.15](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint-config@0.3.14...@furdzik/stylelint-config@0.3.15) (2022-01-12)
+
+
+### Features
+
+* **app:** change to npm public packages ([a0c17c2](https://github.com/furdzik/IF.Mizenboushi/commit/a0c17c20bfe54fda42105054cc3849a4f439be47))
+* **app:** package-lock update ([9d8a115](https://github.com/furdzik/IF.Mizenboushi/commit/9d8a1155d60b7271da21649f984495cb51249d2c))
+
+
+
+
+
 ## [0.3.14](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint-config@0.3.13...@furdzik/stylelint-config@0.3.14) (2022-01-11)
 
 

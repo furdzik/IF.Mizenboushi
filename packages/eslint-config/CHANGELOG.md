@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.7](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/eslint-config@0.0.6...@furdzik/eslint-config@0.0.7) (2022-01-23)
+
+
+### Bug Fixes
+
+* **packages:** remove vulnerabilities ([dd95e12](https://github.com/furdzik/IF.Mizenboushi/commit/dd95e12be808fb7cf35909beb3865c39d3e16d75))
+
+
+
+
+
 ## [0.0.6](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/eslint-config@0.0.5...@furdzik/eslint-config@0.0.6) (2022-01-12)
 
 

@@ -15,12 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "@commitlint/config-conventional": "8.2.0",
-    "@furdzik/eslint-config": "0.0.3",
+    "@furdzik/eslint-config": "0.0.8",
     "eslint": "8.6.0"
-  },
-  "peerDependencies": {
-    "babel-plugin-module-resolver": "4.1.0",
-    "eslint-import-resolver-babel-module": "5.3.1"
   },
   "standard-version": {
     "skip": {

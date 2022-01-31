@@ -14,7 +14,7 @@
   "author": "Izabela Furdzik",
   "license": "MIT",
   "dependencies": {
-    "@furdzik/eslint-config": "0.0.3",
+    "@furdzik/eslint-config": "0.0.8",
     "eslint": "8.6.0",
     "stylelint-config-prettier": "9.0.3",
     "stylelint-config-recommended": "6.0.0",

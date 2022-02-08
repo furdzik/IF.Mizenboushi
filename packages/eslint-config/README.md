@@ -1,7 +1,7 @@
 ## Getting started
 
 ```
-npm install --save-dev eslint @furdzik/eslint
+npm install --save-dev eslint babel-plugin-module-resolver eslint-import-resolver-babel-module @furdzik/eslint
 ```
 
 ---

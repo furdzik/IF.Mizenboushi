@@ -1,9 +1,7 @@
 ## Getting started
 
 ```
-npm install --save-dev eslint @furdzik/stylelint
-
-@TODO
+npm install --save-dev eslint stylelint-processor-styled-components @furdzik/stylelint
 ```
 
 ---

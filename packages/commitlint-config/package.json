@@ -1,6 +1,6 @@
 {
   "name": "@furdzik/commitlint-config",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Commit lint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@commitlint/config-conventional": "8.2.0",
-    "@furdzik/eslint-config": "0.0.10",
+    "@furdzik/eslint-config": "0.0.11",
     "eslint": "8.6.0"
   },
   "standard-version": {

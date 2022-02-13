@@ -1,17 +1,17 @@
 'use strict';
 
+
 module.exports = {
   extends: [
     'eslint-config-airbnb'
   ],
   parser: '@babel/eslint-parser',
   plugins: [
-    'eslint-plugin-import',
-    'eslint-plugin-module-resolver',
+    'eslint-plugin-import', 'eslint-plugin-module-resolver',
     'eslint-plugin-react-hooks'
   ],
   env: {
-    'browser': true,
+    "browser": true,
     'jest': true,
     'es6': true
   },

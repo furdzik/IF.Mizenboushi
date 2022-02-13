@@ -3,24 +3,24 @@
 Lint configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).  
 Contains different framework and library lint configurations and also a global lint which can be used by any JavaScript project.
 
----
-
 ## Getting started
 
 ### Installation
 
-#### peer dependencies
+**Peer dependencies**
 - `eslint`
+- `@babel/core`
+- `@babel/eslint-parser`
 - `babel-plugin-module-resolver`
 - `eslint-import-resolver-babel-module`
 
 ```
-npm install --save-dev eslint babel-plugin-module-resolver eslint-import-resolver-babel-module @furdzik/eslint
+npm install --save-dev @furdzik/eslint
 ```
 
 ### Usage
 
-#### Config `.eslintrc`
+**Config `.eslintrc`**
 
 ```json
   {

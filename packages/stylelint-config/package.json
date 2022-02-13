@@ -13,9 +13,12 @@
   },
   "author": "Izabela Furdzik",
   "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "IF.Kamisama",
+    "StyleGuide"
+  ],
   "dependencies": {
-    "@furdzik/eslint-config": "0.0.11",
-    "eslint": "8.6.0",
     "stylelint-config-prettier": "9.0.3",
     "stylelint-config-recommended": "6.0.0",
     "stylelint-config-recommended-scss": "5.0.2",
@@ -25,6 +28,18 @@
     "stylelint-declaration-use-variable": "1.7.3",
     "stylelint-order": "5.0.0",
     "stylelint-scss": "4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.17.2",
+    "@babel/eslint-parser": "7.17.0",
+    "@furdzik/eslint-config": "0.0.13",
+    "babel-plugin-module-resolver": "4.1.0",
+    "eslint": "8.9.0",
+    "eslint-import-resolver-babel-module": "5.3.1"
+  },
+  "peerDependencies": {
+    "stylelint": ">= 14.0.0",
+    "stylelint-processor-styled-components": "1.10.0"
   },
   "standard-version": {
     "skip": {

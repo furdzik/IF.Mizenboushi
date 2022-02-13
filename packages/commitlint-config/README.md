@@ -1,12 +1,23 @@
+# Package `@furdzik/commitlint-config`
+
+Commitlint configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).
+
+---
+
 ## Getting started
+
+### Installation
+
+#### peer dependencies
+- `commitlint`
 
 ```
 npm install --save-dev commitlint @furdzik/commitlint
 ```
 
----
+### Usage
 
-`commitlint.config.js`
+#### Config file commitlint
 
 ```javascript
   {
@@ -14,8 +25,4 @@ npm install --save-dev commitlint @furdzik/commitlint
   }
 ```
 
----
 
-## New changes and updating version
-
-@TODO

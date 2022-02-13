@@ -11,4 +11,8 @@ I chose this name because it reflects the task of linters.
 
 ---
 
-README @TODO
+## Packages
+
+- [`commitlint-config`](packages/commitlint-config/README.md)
+- [`eslint-config`](packages/eslint-config/README.md)
+- [`stylelint-config`](packages/stylelint-config/README.md)

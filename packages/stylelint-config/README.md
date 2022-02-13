@@ -1,14 +1,27 @@
-## Getting started
+# Package `@furdzik/stylelint-config`
 
-```
-npm install --save-dev eslint stylelint-processor-styled-components @furdzik/stylelint
-```
+Stylelint configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).  
+Contains different framework and library lint configurations and also a global lint which can be used by any JavaScript project.
 
 ---
 
-`.stylelintrc`
+## Getting started
 
-```javascript
+### Installation
+
+#### peer dependencies
+- `stylelint`
+- `stylelint-processor-styled-components`
+
+```
+npm install --save-dev stylelint stylelint-processor-styled-components @furdzik/stylelint
+```
+
+### Usage
+
+#### Config `.stylelintrc`
+
+```json
   {
     "processors": [
       "stylelint-processor-styled-components"
@@ -18,9 +31,3 @@ npm install --save-dev eslint stylelint-processor-styled-components @furdzik/sty
     ]
   }
 ```
-
----
-
-## New changes and updating version
-
-@TODO

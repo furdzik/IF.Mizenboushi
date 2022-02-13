@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.9](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint-config@0.0.8...@furdzik/stylelint-config@0.0.9) (2022-02-13)
+
+**Note:** Version bump only for package @furdzik/stylelint-config
+
+
+
+
+
 ## [0.0.8](https://github.com/furdzik/IF.Mizenboushi/compare/@furdzik/stylelint-config@0.0.7...@furdzik/stylelint-config@0.0.8) (2022-02-13)
 
 **Note:** Version bump only for package @furdzik/stylelint-config

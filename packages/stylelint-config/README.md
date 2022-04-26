@@ -7,7 +7,7 @@ Contains different framework and library lint configurations and also a global s
 
 ### Installation
 
-**peer dependencies**
+**Peer dependencies**
 - `stylelint`
 - `stylelint-processor-styled-components`
 

@@ -1,6 +1,6 @@
 {
   "name": "@furdzik/stylelint-config",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Stylelint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {
@@ -32,7 +32,7 @@
   "devDependencies": {
     "@babel/core": "7.17.9",
     "@babel/eslint-parser": "7.17.0",
-    "@furdzik/eslint-config": "0.0.14",
+    "@furdzik/eslint-config": "file:./packages/eslint-config",
     "babel-plugin-module-resolver": "4.1.0",
     "eslint": "8.14.0",
     "eslint-import-resolver-babel-module": "5.3.1"
@@ -40,11 +40,6 @@
   "peerDependencies": {
     "stylelint": "^14.8.0",
     "stylelint-processor-styled-components": "^1.10.0"
-  },
-  "standard-version": {
-    "skip": {
-      "changelog": true
-    }
   },
   "publishConfig": {
     "access": "public"

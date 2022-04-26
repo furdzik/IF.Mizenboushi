@@ -12,7 +12,7 @@
     "outdated": "npm outdated --workspaces",
     "lint": "npm run lint --workspaces",
     "tests": "npm run test --workspaces",
-    "version": "npm version --workspaces",
+    "version": "npm version patch --workspaces",
     "publish": "npm publish --workspaces",
     "release": "npm run version && npm run publish"
   },

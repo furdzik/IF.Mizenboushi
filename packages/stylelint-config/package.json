@@ -30,7 +30,7 @@
     "stylelint-scss": "4.2.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.9",
+    "@babel/core": "7.17.10",
     "@babel/eslint-parser": "7.17.0",
     "@furdzik/eslint-config": "file:./packages/eslint-config",
     "babel-plugin-module-resolver": "4.1.0",
@@ -38,8 +38,8 @@
     "eslint-import-resolver-babel-module": "5.3.1"
   },
   "peerDependencies": {
-    "stylelint": "^14.8.0",
-    "stylelint-processor-styled-components": "^1.10.0"
+    "stylelint": "^14",
+    "stylelint-processor-styled-components": "^1"
   },
   "publishConfig": {
     "access": "public"

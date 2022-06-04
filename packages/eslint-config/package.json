@@ -23,15 +23,15 @@
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-jsx-a11y": "6.5.1",
     "eslint-plugin-module-resolver": "1.4.0",
-    "eslint-plugin-react": "7.29.4",
+    "eslint-plugin-react": "7.30.0",
     "eslint-plugin-react-hooks": "4.5.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.10",
-    "@babel/eslint-parser": "7.17.0",
-    "@furdzik/eslint-config": "file:./packages/eslint-config",
+    "@babel/core": "7.18.2",
+    "@babel/eslint-parser": "7.18.2",
+    "@furdzik/eslint-config": "latest",
     "babel-plugin-module-resolver": "4.1.0",
-    "eslint": "8.14.0",
+    "eslint": "8.17.0",
     "eslint-import-resolver-babel-module": "5.3.1"
   },
   "peerDependencies": {

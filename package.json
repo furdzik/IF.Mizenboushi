@@ -34,6 +34,6 @@
   "devDependencies": {
     "@furdzik/commitlint-config": "file:./packages/commitlint-config",
     "editorconfig": "0.15.3",
-    "husky": "7.0.4"
+    "husky": "8.0.1"
   }
 }

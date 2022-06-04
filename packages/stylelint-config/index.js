@@ -5,11 +5,10 @@ module.exports = {
     'stylelint-config-standard',
     'stylelint-config-recommended',
     'stylelint-config-recommended-scss',
-    'stylelint-config-prettier',
     'stylelint-config-styled-components'
   ],
   'plugins': [
-    'stylelint-declaration-use-variable',
+    'stylelint-declaration-strict-value',
     'stylelint-declaration-block-no-ignored-properties',
     'stylelint-order'
   ],
@@ -430,6 +429,12 @@ module.exports = {
     'selector-type-case': null,
     'alpha-value-notation': null,
     'selector-class-pattern': null,
-    'font-family-name-quotes': 'always-unless-keyword'
+    'font-family-name-quotes': 'always-unless-keyword',
+
+    // Styled components
+    'value-no-vendor-prefix': true,
+    'property-no-vendor-prefix': true,
+    'no-empty-source': null,
+    'no-missing-end-of-source-newline': null
   }
 };

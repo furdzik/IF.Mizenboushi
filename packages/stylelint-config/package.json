@@ -19,22 +19,20 @@
     "StyleGuide"
   ],
   "dependencies": {
-    "stylelint-config-prettier": "9.0.3",
     "stylelint-config-recommended": "7.0.0",
     "stylelint-config-recommended-scss": "6.0.0",
     "stylelint-config-standard": "25.0.0",
-    "stylelint-config-styled-components": "0.1.1",
     "stylelint-declaration-block-no-ignored-properties": "2.5.0",
-    "stylelint-declaration-use-variable": "1.7.3",
+    "stylelint-declaration-strict-value": "1.8.0",
     "stylelint-order": "5.0.0",
     "stylelint-scss": "4.2.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.10",
-    "@babel/eslint-parser": "7.17.0",
+    "@babel/core": "7.18.2",
+    "@babel/eslint-parser": "7.18.2",
     "@furdzik/eslint-config": "file:./packages/eslint-config",
     "babel-plugin-module-resolver": "4.1.0",
-    "eslint": "8.14.0",
+    "eslint": "8.17.0",
     "eslint-import-resolver-babel-module": "5.3.1"
   },
   "peerDependencies": {

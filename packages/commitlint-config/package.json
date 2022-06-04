@@ -19,18 +19,18 @@
     "StyleGuide"
   ],
   "dependencies": {
-    "@commitlint/config-conventional": "16.2.4"
+    "@commitlint/config-conventional": "17.0.2"
   },
   "devDependencies": {
-    "@babel/core": "7.17.10",
-    "@babel/eslint-parser": "7.17.0",
+    "@babel/core": "7.18.2",
+    "@babel/eslint-parser": "7.18.2",
     "@furdzik/eslint-config": "file:./packages/eslint-config",
     "babel-plugin-module-resolver": "4.1.0",
-    "eslint": "8.14.0",
+    "eslint": "8.17.0",
     "eslint-import-resolver-babel-module": "5.3.1"
   },
   "peerDependencies": {
-    "commitlint": "^16"
+    "commitlint": "^17 || ^16"
   },
   "publishConfig": {
     "access": "public"

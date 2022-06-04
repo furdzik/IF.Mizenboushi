@@ -1,6 +1,6 @@
 {
   "name": "@furdzik/commitlint-config",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "description": "Commitlint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {

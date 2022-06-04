@@ -429,6 +429,8 @@ module.exports = {
     'alpha-value-notation': null,
     'selector-class-pattern': null,
     'font-family-name-quotes': 'always-unless-keyword',
+    'number-leading-zero': 'never',
+    'declaration-colon-newline-after': 'always-multi-line',
 
     // Styled components
     'value-no-vendor-prefix': true,

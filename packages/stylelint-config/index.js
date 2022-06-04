@@ -430,7 +430,7 @@ module.exports = {
     'selector-class-pattern': null,
     'font-family-name-quotes': 'always-unless-keyword',
     'number-leading-zero': 'never',
-    'declaration-colon-newline-after': 'always-multi-line',
+    'declaration-colon-newline-after': null,
 
     // Styled components
     'value-no-vendor-prefix': true,

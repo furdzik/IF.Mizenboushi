@@ -1,6 +1,6 @@
 {
   "name": "@furdzik/stylelint-config",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Stylelint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {

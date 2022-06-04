@@ -1,6 +1,6 @@
 {
   "name": "@furdzik/eslint-config",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "ESLint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {

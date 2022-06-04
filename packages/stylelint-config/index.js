@@ -4,8 +4,7 @@ module.exports = {
   'extends': [
     'stylelint-config-standard',
     'stylelint-config-recommended',
-    'stylelint-config-recommended-scss',
-    'stylelint-config-styled-components'
+    'stylelint-config-recommended-scss'
   ],
   'plugins': [
     'stylelint-declaration-strict-value',
@@ -430,6 +429,8 @@ module.exports = {
     'alpha-value-notation': null,
     'selector-class-pattern': null,
     'font-family-name-quotes': 'always-unless-keyword',
+    'number-leading-zero': 'never',
+    'declaration-colon-newline-after': 'always-multi-line',
 
     // Styled components
     'value-no-vendor-prefix': true,

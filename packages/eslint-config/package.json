@@ -1,5 +1,5 @@
 {
-  "name": "@furdzik/eslint-config",
+  "name": "kamisama-eslint-config",
   "version": "0.1.0",
   "description": "ESLint rules by Izabela Furdzik",
   "main": "index.js",

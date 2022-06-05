@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/furdzik/IF.Mizenboushi#readme",
   "devDependencies": {
-    "kamisama-commitlint-config": "file:./packages/commitlint-config",
+    "commitlint-config-kamisama": "file:./packages/commitlint-config",
     "editorconfig": "0.15.3",
     "husky": "8.0.1"
   }

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/furdzik/IF.Mizenboushi/compare/kamisama-eslint-config-v0.2.0...kamisama-eslint-config-v0.2.1) (2022-06-05)
+
+
+### Bug Fixes
+
+* Update inside linters ([71d4fc3](https://github.com/furdzik/IF.Mizenboushi/commit/71d4fc3e57c45d09f2b27450bf70b0d51268def9))
+* update package's readme ([0860b3b](https://github.com/furdzik/IF.Mizenboushi/commit/0860b3b3db2851a7eaf63d8ffeb59900238d9e1f))
+
 ## [0.2.0](https://github.com/furdzik/IF.Mizenboushi/compare/kamisama-eslint-config-v0.1.0...kamisama-eslint-config-v0.2.0) (2022-06-05)
 
 

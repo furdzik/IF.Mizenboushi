@@ -6,6 +6,12 @@ module.exports = {
   ],
   rules: {
     'subject-empty': [2, 'never'],
+    'subject-case': [
+      2,
+      'never',
+      ['start-case', 'pascal-case', 'upper-case'],
+    ],
+    'header-max-length': [2, 'always', 150],
     'type-enum': [
       2,
       'always',

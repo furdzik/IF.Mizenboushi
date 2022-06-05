@@ -1,6 +1,6 @@
 {
   "name": "kamisama-commitlint-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Commitlint rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {

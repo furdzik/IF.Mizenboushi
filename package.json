@@ -1,6 +1,6 @@
 {
   "name": "if.mizenboushi",
-  "version": "0.0.1",
+  "version": "0.3.0",
   "description": "Linters by Izabela Furdzik",
   "main": "index.js",
   "workspaces": [

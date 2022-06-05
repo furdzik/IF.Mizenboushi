@@ -30,3 +30,5 @@ storybook-static/
 # IDE / text editor data
 .idea/
 .vscode/
+.DS_Store
+

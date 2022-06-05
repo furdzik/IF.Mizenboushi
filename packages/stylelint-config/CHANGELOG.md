@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.3.0...stylelint-config-kamisama-v0.3.1) (2022-06-05)
+
+
+### Bug Fixes
+
+* Update package-lock and delete ols packages ([6bfd943](https://github.com/furdzik/IF.Mizenboushi/commit/6bfd9430db90e1651c64935bbc999c4741c981e4))
+
 ## [0.3.0](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.2.2...stylelint-config-kamisama-v0.3.0) (2022-06-05)
 
 

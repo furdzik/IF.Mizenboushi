@@ -1,4 +1,5 @@
 {
   "packages/commitlint-config": "0.1.0",
-  "packages/eslint-config": "0.1.0"
+  "packages/eslint-config": "0.1.0",
+  "packages/stylelint-config": "0.0.0"
 }

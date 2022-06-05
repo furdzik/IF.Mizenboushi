@@ -1,4 +1,4 @@
-# Package `kamisama-commitlint-config`
+# kamisama-commitlint-config
 
 Commitlint configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).
 
@@ -10,7 +10,7 @@ Commitlint configuration by style guide [IF.Kamisama](https://github.com/furdzik
 - `commitlint`
 
 ```
-npm install --save-dev kamisama-commitlint
+  npm install --save-dev kamisama-commitlint-config
 ```
 
 ### Usage
@@ -19,7 +19,7 @@ npm install --save-dev kamisama-commitlint
 
 ```json
   {
-    "extends": "kamisama-commitlint"
+    "extends": "kamisama-commitlint-config"
   }
 ```
 

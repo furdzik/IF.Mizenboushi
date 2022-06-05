@@ -30,7 +30,7 @@
   "devDependencies": {
     "@babel/core": "7.18.2",
     "@babel/eslint-parser": "7.18.2",
-    "@furdzik/eslint-config": "latest",
+    "kamisama-eslint-config": "latest",
     "babel-plugin-module-resolver": "4.1.0",
     "eslint": "8.17.0",
     "eslint-import-resolver-babel-module": "5.3.1"

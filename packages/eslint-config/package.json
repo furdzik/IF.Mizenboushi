@@ -1,5 +1,5 @@
 {
-  "name": "kamisama-eslint-config",
+  "name": "eslint-config-kamisama",
   "version": "0.2.2",
   "description": "ESLint rules by Izabela Furdzik",
   "main": "index.js",

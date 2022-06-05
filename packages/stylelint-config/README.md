@@ -1,4 +1,4 @@
-# kamisama-stylelint-config
+# stylelint-config-kamisama
 
 Stylelint configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).  
 Contains different framework and library lint configurations and also a global stylelint which can be used by any JavaScript project.
@@ -12,7 +12,7 @@ Contains different framework and library lint configurations and also a global s
 - `stylelint-processor-styled-components`
 
 ```
-  npm install --save-dev kamisama-stylelint-config
+  npm install --save-dev stylelint-config-kamisama
 ```
 
 ### Usage
@@ -25,7 +25,7 @@ Contains different framework and library lint configurations and also a global s
       "stylelint-processor-styled-components"
     ],
       "extends": [
-      "kamisama-stylelint-config"
+      "stylelint-config-kamisama"
     ]
   }
 ```

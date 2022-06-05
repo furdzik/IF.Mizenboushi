@@ -1,4 +1,4 @@
-# Package `kamisama-eslint-config`
+# eslint-config-kamisama
 
 Lint configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).  
 Contains different framework and library lint configurations and also a global lint which can be used by any JavaScript project.
@@ -15,7 +15,7 @@ Contains different framework and library lint configurations and also a global l
 - `eslint-import-resolver-babel-module`
 
 ```
-npm install --save-dev kamisama-eslint
+  npm install --save-dev eslint-config-kamisama
 ```
 
 ### Usage
@@ -26,7 +26,7 @@ npm install --save-dev kamisama-eslint
   {
     "parser": "@babel/eslint-parser",
       "extends": [
-        "kamisama-eslint-config"
+        "eslint-config-kamisama"
       ],
       "settings": {
       "import/resolver": {

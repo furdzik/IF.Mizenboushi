@@ -1,5 +1,5 @@
 {
-  "name": "kamisama-stylelint-config",
+  "name": "stylelint-config-kamisama",
   "version": "0.2.1",
   "description": "Stylelint rules by Izabela Furdzik",
   "main": "index.js",

@@ -7,7 +7,7 @@
     "packages/**"
   ],
   "scripts": {
-    "bootstrap": "npm i --legacy-peer-deps --workspaces",
+    "bootstrap": "npm i --workspaces",
     "audit": "npm audit --workspaces",
     "outdated": "npm outdated --workspaces",
     "lint": "npm run lint --workspaces",

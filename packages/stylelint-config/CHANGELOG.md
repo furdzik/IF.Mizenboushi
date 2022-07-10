@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.3.1...stylelint-config-kamisama-v0.4.0) (2022-07-10)
+
+
+### Features
+
+* **stylelint:** change style order ([39ec5ba](https://github.com/furdzik/IF.Mizenboushi/commit/39ec5bab133997ff373bf9eba392f4237c4ce553))
+
 ## [0.3.1](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.3.0...stylelint-config-kamisama-v0.3.1) (2022-06-05)
 
 

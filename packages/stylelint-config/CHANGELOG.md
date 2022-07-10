@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.4.0...stylelint-config-kamisama-v0.4.1) (2022-07-10)
+
+
+### Bug Fixes
+
+* **stylelint:** style order import fix ([ab830c4](https://github.com/furdzik/IF.Mizenboushi/commit/ab830c401fbd49b092ab211b8f8a741c09c59e7a))
+
 ## [0.4.0](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.3.1...stylelint-config-kamisama-v0.4.0) (2022-07-10)
 
 

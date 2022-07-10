@@ -12,7 +12,10 @@
     "outdated": "npm outdated --workspaces",
     "lint": "npm run lint --workspaces",
     "tests": "npm run test --workspaces",
-    "publish": "npm publish --workspaces"
+    "publish": "npm publish --workspaces",
+    "publish:commitlint": "npm publish --workspace=commitlint-config-kamisama",
+    "publish:eslint": "npm publish --workspace=eslint-config-kamisama",
+    "publish:stylelint": "npm publish --workspace=stylelint-config-kamisama"
   },
   "repository": {
     "type": "git",

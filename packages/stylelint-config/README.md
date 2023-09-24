@@ -20,12 +20,10 @@ Contains different framework and library lint configurations and also a global s
 **Config `.stylelintrc`**
 
 ```json
-  {
-    "processors": [
-      "stylelint-processor-styled-components"
-    ],
-      "extends": [
-      "stylelint-config-kamisama"
-    ]
-  }
+{
+  "customSyntax": "postcss-styled-syntax",
+  "extends": [
+    "stylelint-config-kamisama"
+  ]
+}
 ```

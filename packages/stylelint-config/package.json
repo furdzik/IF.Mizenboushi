@@ -37,7 +37,7 @@
   },
   "peerDependencies": {
     "stylelint": "^15 || ^14",
-    "stylelint-processor-styled-components": "^1"
+    "postcss-styled-syntax": "^0.5"
   },
   "publishConfig": {
     "access": "public"

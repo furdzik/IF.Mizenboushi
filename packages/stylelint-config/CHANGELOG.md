@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.4](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.4.3...stylelint-config-kamisama-v0.4.4) (2023-09-24)
+
+
+### Bug Fixes
+
+* **app:** change in rules after update ([d252f59](https://github.com/furdzik/IF.Mizenboushi/commit/d252f592e3ed140155ebe242d4cdb281d9e7e614))
+
 ## [0.4.3](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.4.2...stylelint-config-kamisama-v0.4.3) (2023-09-24)
 
 

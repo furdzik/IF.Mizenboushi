@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/furdzik/IF.Mizenboushi/compare/commitlint-config-kamisama-v0.3.1...commitlint-config-kamisama-v0.3.2) (2023-09-24)
+
+
+### Bug Fixes
+
+* **app:** update readme ([e692003](https://github.com/furdzik/IF.Mizenboushi/commit/e69200371be0fb43dffd18cebaa0d2b74a9d90ce))
+
 ## [0.3.1](https://github.com/furdzik/IF.Mizenboushi/compare/commitlint-config-kamisama-v0.3.0...commitlint-config-kamisama-v0.3.1) (2022-06-05)
 
 

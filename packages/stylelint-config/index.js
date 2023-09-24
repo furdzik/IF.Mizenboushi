@@ -420,7 +420,8 @@ module.exports = {
     'selector-class-pattern': null,
     'font-family-name-quotes': 'always-unless-keyword',
     'declaration-colon-newline-after': null,
-
+    // SCSS
+    'operator-no-unspaced': null,
     // Styled components
     'value-no-vendor-prefix': true,
     'property-no-vendor-prefix': true,

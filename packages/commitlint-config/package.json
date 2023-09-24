@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/furdzik/IF.Mizenboushi"
+    "url": "git+https://github.com/furdzik/IF.Mizenboushi.git"
   },
   "scripts": {
     "lint": "eslint --ext .js",

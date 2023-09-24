@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.7](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.4.6...stylelint-config-kamisama-v0.4.7) (2023-09-24)
+
+
+### Bug Fixes
+
+* **stylelint:** styled component processor change ([510e975](https://github.com/furdzik/IF.Mizenboushi/commit/510e9750fb178dcee37199bf067a87b3eb30fea4))
+
 ## [0.4.6](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.4.5...stylelint-config-kamisama-v0.4.6) (2023-09-24)
 
 

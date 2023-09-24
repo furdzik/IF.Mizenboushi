@@ -1,6 +1,6 @@
 # commitlint-config-kamisama
 
-Commitlint configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).
+`commitlint` configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).
 
 ## Getting started
 

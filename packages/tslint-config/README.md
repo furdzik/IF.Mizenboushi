@@ -10,12 +10,10 @@ Contains different framework and library lint configurations and also a global l
 **Peer dependencies**
 - `eslint`
 - `@babel/core`
-- `@babel/eslint-parser`
-- `babel-plugin-module-resolver`
-- `eslint-import-resolver-babel-module`
+- `@typescript-eslint/parser`
 
 ```
-  npm install --save-dev eslint-config-kamisama
+  npm install --save-dev eslint-config-ts-kamisama
 ```
 
 ### Usage

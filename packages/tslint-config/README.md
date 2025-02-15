@@ -22,7 +22,7 @@ Contains different framework and library lint configurations and also a global l
 
 ```json
   {
-    "parser": "@babel/eslint-parser",
+    "parser": "@typescript-eslint/parser",
       "extends": [
         "eslint-config-ts-kamisama"
       ],

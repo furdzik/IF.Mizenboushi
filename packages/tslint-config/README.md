@@ -1,4 +1,4 @@
-# tslint-config-kamisama
+# eslint-config-ts-kamisama
 
 'tslint' configuration by style guide [IF.Kamisama](https://github.com/furdzik/IF.Kamisama).  
 Contains different framework and library lint configurations and also a global lint which can be used by any JavaScript project.
@@ -26,7 +26,7 @@ Contains different framework and library lint configurations and also a global l
   {
     "parser": "@babel/eslint-parser",
       "extends": [
-        "tslint-config-kamisama"
+        "eslint-config-ts-kamisama"
       ],
       "settings": {
       "import/resolver": {

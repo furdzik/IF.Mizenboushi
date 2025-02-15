@@ -15,7 +15,7 @@
     "publish": "npm publish --workspaces",
     "publish:commitlint": "npm publish --workspace=commitlint-config-kamisama",
     "publish:eslint": "npm publish --workspace=eslint-config-kamisama",
-    "publish:tslint": "npm publish --workspace=tslint-config-kamisama",
+    "publish:tslint": "npm publish --workspace=eslint-config-ts-kamisama",
     "publish:stylelint": "npm publish --workspace=stylelint-config-kamisama"
   },
   "repository": {

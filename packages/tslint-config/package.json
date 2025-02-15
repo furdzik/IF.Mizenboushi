@@ -34,9 +34,9 @@
   "peerDependencies": {
     "@babel/core": "^7",
     "@babel/eslint-parser": "^7",
-    "babel-plugin-module-resolver": "^5 || ^4",
-    "eslint": "^8",
-    "@typescript-eslint/eslint-plugin": "^5.62.0"
+    "@typescript-eslint/eslint-plugin": "^5",
+    "@typescript-eslint/parser": "^5",
+    "eslint": "^8"
   },
   "publishConfig": {
     "access": "public"

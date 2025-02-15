@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ts-kamisama",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint for TypeScript rules by Izabela Furdzik",
   "main": "index.js",
   "repository": {

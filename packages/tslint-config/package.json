@@ -20,9 +20,9 @@
     "StyleGuide"
   ],
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "8.24.0",
     "eslint-config-react-app": "7.0.1",
-    "eslint-config-airbnb": "19.0.4"
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-airbnb-base": "15.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.22.20",
@@ -35,7 +35,8 @@
     "@babel/core": "^7",
     "@babel/eslint-parser": "^7",
     "babel-plugin-module-resolver": "^5 || ^4",
-    "eslint": "^8"
+    "eslint": "^8",
+    "@typescript-eslint/eslint-plugin": "^5.62.0"
   },
   "publishConfig": {
     "access": "public"

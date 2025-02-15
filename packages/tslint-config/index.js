@@ -9,7 +9,7 @@ module.exports = {
     "plugin:@typescript-eslint/recommended"
   ],
   "rules": {},
-  "parser": "@babel/eslint-parser",
+  "parser": "@typescript-eslint/parser",
   "overrides": [
     {
       "files": [

@@ -1,0 +1,46 @@
+{
+  "name": "tslint-config-kamisama",
+  "version": "0.0.1",
+  "description": "ESLint for TypeScript rules by Izabela Furdzik",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furdzik/IF.Mizenboushi.git"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izabela Furdzik",
+  "license": "MIT",
+  "keywords": [
+    "tslint",
+    "eslint",
+    "IF.Kamisama",
+    "StyleGuide"
+  ],
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "8.24.0",
+    "eslint-config-react-app": "7.0.1",
+    "eslint-config-airbnb": "19.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "7.22.20",
+    "@babel/eslint-parser": "7.22.15",
+    "eslint-config-kamisama": "latest",
+    "babel-plugin-module-resolver": "5.0.0",
+    "eslint": "8.57.0",
+    "eslint-import-resolver-babel-module": "5.3.2"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7",
+    "@babel/eslint-parser": "^7",
+    "babel-plugin-module-resolver": "^5 || ^4",
+    "eslint": "^8",
+    "eslint-import-resolver-babel-module": "^5"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "f8b709fecb2ee44c71eb79cc33f725650c83a42f"
+}

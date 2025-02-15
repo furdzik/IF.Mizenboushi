@@ -15,4 +15,5 @@ I chose this name because it reflects the task of linters.
 
 - [`commitlint-config`](packages/commitlint-config/README.md)
 - [`eslint-config`](packages/eslint-config/README.md)
+- [`tslint-config`](packages/tslint-config/README.md)
 - [`stylelint-config`](packages/stylelint-config/README.md)

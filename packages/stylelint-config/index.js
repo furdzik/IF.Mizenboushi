@@ -419,13 +419,11 @@ module.exports = {
     'alpha-value-notation': null,
     'selector-class-pattern': null,
     'font-family-name-quotes': 'always-unless-keyword',
-    'declaration-colon-newline-after': null,
     // SCSS
     'scss/operator-no-unspaced': null,
     // Styled components
     'value-no-vendor-prefix': true,
     'property-no-vendor-prefix': true,
-    'no-empty-source': null,
-    'no-missing-end-of-source-newline': null
+    'no-empty-source': null
   }
 };

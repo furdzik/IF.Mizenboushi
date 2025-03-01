@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.0](https://github.com/furdzik/IF.Mizenboushi/compare/commitlint-config-kamisama-v0.3.3...commitlint-config-kamisama-v0.4.0) (2025-03-01)
+
+
+### Features
+
+* **app:** update versions ([6a24629](https://github.com/furdzik/IF.Mizenboushi/commit/6a24629b0c1eeab2907a53d734ba55cb1359633d))
+* **app:** update versions and package lock ([d938b4b](https://github.com/furdzik/IF.Mizenboushi/commit/d938b4b74d71fda38d06d2a660b37cda211cbaad))
+* **commit-lint:** update version ([4a87616](https://github.com/furdzik/IF.Mizenboushi/commit/4a876162f8432a41245da462fc8d06319187fa1d))
+
 ## [0.3.3](https://github.com/furdzik/IF.Mizenboushi/compare/commitlint-config-kamisama-v0.3.2...commitlint-config-kamisama-v0.3.3) (2023-09-24)
 
 

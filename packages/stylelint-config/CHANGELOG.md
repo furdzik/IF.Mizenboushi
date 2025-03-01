@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.5.0](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.4.7...stylelint-config-kamisama-v0.5.0) (2025-03-01)
+
+
+### Features
+
+* **app:** update versions ([6644207](https://github.com/furdzik/IF.Mizenboushi/commit/66442078de7a51d7ddb30338ab1378436a865ca4))
+* **app:** update versions ([3b18827](https://github.com/furdzik/IF.Mizenboushi/commit/3b188278836cd23beff7eeef2a200c8cf1f0d7bd))
+* **app:** update versions ([c16b15a](https://github.com/furdzik/IF.Mizenboushi/commit/c16b15ab1e5535b8d07bf917fdc225fd1f2b680d))
+* **app:** update versions and package lock ([d938b4b](https://github.com/furdzik/IF.Mizenboushi/commit/d938b4b74d71fda38d06d2a660b37cda211cbaad))
+* **stylelint:** update packages ([ed4ab90](https://github.com/furdzik/IF.Mizenboushi/commit/ed4ab9073f807d953707ac9699dffa6e2d8290ee))
+* **stylelint:** update version ([7f993b7](https://github.com/furdzik/IF.Mizenboushi/commit/7f993b77d83416e5dc4c5df8e4f6f246b88227fc))
+
 ## [0.4.7](https://github.com/furdzik/IF.Mizenboushi/compare/stylelint-config-kamisama-v0.4.6...stylelint-config-kamisama-v0.4.7) (2023-09-24)
 
 
